@@ -1,0 +1,14 @@
+com/bd/MainActivity.java
+ com.bd.MainActivity
+com/bd/BuildConfig.java
+ com.bd.BuildConfig
+com/bd/MainApplication.java
+ com.bd.MainApplication
+ com.bd.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/bd/ReactNativeFlipper.java
+ com.bd.ReactNativeFlipper
+ com.bd.ReactNativeFlipper$1
+ com.bd.ReactNativeFlipper$2
+ com.bd.ReactNativeFlipper$2$1
